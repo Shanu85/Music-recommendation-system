@@ -3,9 +3,9 @@
 This project was created as a part of Machine Learning Course(CSE343) at IIIT Delhi.
 
 ### Group Member
- [Jasdeep Singh](https://github.com/Jassi-71 "GitHub Profile")
- [Siddharth Singh Kiryal](https://github.com/siddharth23ux "GitHub Profile")
- [Shanu Verma](https://github.com/Shanu85 "GitHub Profile")
+ 1. [Jasdeep Singh](https://github.com/Jassi-71 "GitHub Profile")
+ 2. [Siddharth Singh Kiryal](https://github.com/siddharth23ux "GitHub Profile")
+ 3. [Shanu Verma](https://github.com/Shanu85 "GitHub Profile")
 
 ## Introduction
 In the present day scenario, most people listen to music. There are 79 million songs present on the internet. The quantity of songs has exploded due to the increased popularity of music streaming services. It has grown laborious and dif icult for consumers to get hold of similar songs of their preference. It includes individuals listening to and classifying various tunes based on their acoustic capabilities. Moreover, the recommendation system based on the song's metadata may not give them the best user experience. We wish to provide them with a better music experience by audio sampling the wav files and extracting the features. The goal is to improve efficiency and introduce automation for the said task. Machine learning techniques of today and Visualization tools should aid in discovering accurate models which recommend songs for users on music selections, as this was not addressed in previous research.
