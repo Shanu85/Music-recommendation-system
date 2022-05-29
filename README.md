@@ -59,62 +59,62 @@ To extract 30 seconds from offset 30: `for %i in (*.mp3) do ffmpeg -ss 30 -t 30 
 Figures
 
 
-Figure 1: ANN - Varying test and train accuracy with epochs
+> Figure 1: ANN - Varying test and train accuracy with epochs <br />
 ![image](https://user-images.githubusercontent.com/81826357/170858268-6b368612-48c0-4edd-8d54-e8827e7d8951.png)
 
-Figure 2: ANN - Varying test loss and train loss with epochs
+> Figure 2: ANN - Varying test loss and train loss with epochs <br />
 ![image](https://user-images.githubusercontent.com/81826357/170858266-ac19883e-c9a0-404b-9f00-f96b4aca9cb4.png)
 
-Figure 3: Silhouette_Score with number of clusters (K_Mean)
+> Figure 3: Silhouette_Score with number of clusters (K_Mean) <br />
 ![image](https://user-images.githubusercontent.com/81826357/170858263-c694b583-cc10-425a-b5ba-c1d37cf7ceed.png)
 
-Figure 4: Silhouette_Score with different PCA components in K_Mean(n_clusters=9 n_init=9 ) 
+> Figure 4: Silhouette_Score with different PCA components in K_Mean(n_clusters=9 n_init=9 ) <br />
 ![image](https://user-images.githubusercontent.com/81826357/170858261-522b1414-48b6-42c4-bea5-14fdbea8538e.png)
 
-Figure 5: Accuracy varying with k number of neighbors
+> Figure 5: Accuracy varying with k number of neighbors <br />
 ![image](https://user-images.githubusercontent.com/81826357/170858258-5a68c299-dc6c-43fe-a5cf-1c3283035256.png)
 
-Figure 6: TSNE(n_components=2,n_iter=500) on original data
+> Figure 6: TSNE(n_components=2,n_iter=500) on original data <br />
 ![image](https://user-images.githubusercontent.com/81826357/170858253-156baaa2-452e-412b-910a-979b2e659059.png)
 
-Figure 7: Confusion matrix of ANN for predicted and true labels
+> Figure 7: Confusion matrix of ANN for predicted and true labels <br />
 ![image](https://user-images.githubusercontent.com/81826357/170858249-7f1934b1-108c-443b-b107-555e79aff67b.png)
 
-Figure 8: CNN model architecture used 
+> Figure 8: CNN model architecture used  <br />
 ![image](https://user-images.githubusercontent.com/81826357/170858246-60278427-86be-4de3-8290-ae6bea9bbb50.png)
 
-Figure 9: CNN - Varying validation and train accuracy with epochs (for analysis purpose) (is overfitted)
+> Figure 9: CNN - Varying validation and train accuracy with epochs (for analysis purpose) (is overfitted) <br />
 ![image](https://user-images.githubusercontent.com/81826357/170858241-54f7f43b-dadb-408e-9811-9097120e07ed.png)
 
-Figure 10: CNN - Varying validation and train loss with epochs (for analysis purpose) (is overfitted)
+> Figure 10: CNN - Varying validation and train loss with epochs (for analysis purpose) (is overfitted) <br />
 ![image](https://user-images.githubusercontent.com/81826357/170858237-e94c7df5-3e10-4c3b-936a-c7cb9ca7b4aa.png)
 
-Figure 11: Confusion matrix of CNN for predicted and true labels 
+> Figure 11: Confusion matrix of CNN for predicted and true labels  <br />
 ![image](https://user-images.githubusercontent.com/81826357/170858187-ef265a79-835d-425e-93bc-45bae21e0489.png)
 
-Figure 13: Heat map of initial data set 1200 rows, 43 column
+> Figure 13: Heat map of initial data set 1200 rows, 43 column <br />
 ![image](https://user-images.githubusercontent.com/81826357/170858190-ec4e1bf5-a9ad-45e3-8ad3-361e1911541a.png)
 
-Figure 12: Histogram for all the features extracted using librosa
+> Figure 12: Histogram for all the features extracted using librosa <br />
 ![image](https://user-images.githubusercontent.com/81826357/170858150-2a6e9e15-17c5-4126-a779-5865569665b7.png)
 
-Figure 14: Recommendation System for Ann using the classification model
+> Figure 14: Recommendation System for Ann using the classification model <br />
 ![image](https://user-images.githubusercontent.com/81826357/170858173-35eebea2-cfd1-40bd-8e06-b38b3ecec879.png)
 
-Figure 15: Recommendation System for KNN using K nearest neighbor on the best hyperparameter found on the classification model.
+> Figure 15: Recommendation System for KNN using K nearest neighbor on the best hyperparameter found on the classification model. <br />
 ![image](https://user-images.githubusercontent.com/81826357/170858138-ea7bc676-3e0b-4bc0-8e09-21e662aaab66.png)
 
-Figure 16: Best hyperparameters for SVM - KFold accuracy, classification report.
+> Figure 16: Best hyperparameters for SVM - KFold accuracy, classification report. <br />
 ![image](https://user-images.githubusercontent.com/81826357/170858129-0539c45b-7437-45e5-b3de-b02e798475c2.png)
 
-Figure 17 : Recommendation using Clustering Algorithms
+> Figure 17 : Recommendation using Clustering Algorithms <br />
 ![image](https://user-images.githubusercontent.com/81826357/170858088-2029eebf-a2c8-4f1e-8a42-033651e72bcf.png)
 
-Figure 18: Validation Curve with basic Random Forest 
+> Figure 18: Validation Curve with basic Random Forest <br />
 ![image](https://user-images.githubusercontent.com/81826357/170858113-95d2623a-643b-48a4-b5ae-7ae90345c450.png)
 
-Figure 19: Validation curve with parameter tuned Random Forest
+> Figure 19: Validation curve with parameter tuned Random Forest <br />
 ![image](https://user-images.githubusercontent.com/81826357/170858106-416f307d-acb7-42b8-bd48-a3978556e64a.png)
 
-Figure 20: The model summary for ANN model
+> Figure 20: The model summary for ANN model <br />
 ![image](https://user-images.githubusercontent.com/81826357/170858100-d592aa48-b302-498a-a4e3-8406fcf8abad.png)
